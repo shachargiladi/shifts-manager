@@ -1,0 +1,14 @@
+.container {
+    alignItems: 'center';
+    justifyContent: 'center';
+    margin: 7% auto;
+    max-width: 80%;
+}
+
+.table {
+
+}
+
+.centeredContent {
+    justifyContent: 'center'
+}
